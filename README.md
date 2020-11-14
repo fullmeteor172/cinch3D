@@ -11,3 +11,9 @@ This is a far-cry from the most efficient approach to making something like this
 * Draw functions make use of the olcPixelGameEngine.
 
 ## Screen Shots
+
+<img src = "/images/img (1).png" height = "200" >
+
+<img src = "/images/img (2).png" height = "200" >
+
+<img src = "/images/img (3).png" height = "200" >
