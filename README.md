@@ -12,6 +12,10 @@ This is a far-cry from the most efficient approach to making something like this
 
 ## Screen Shots
 
+Front of a model
+
 <img src = "/images/img(1).jpg" height = "300" >
+
+Side of a model
 
 <img src = "/images/img(2).jpg" height = "300" >
